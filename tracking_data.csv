@@ -1,0 +1,5 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+Instagram,FitSummer,1,101,Protein Bar,2025-06-01,20,2000
+YouTube,GlowUp,2,102,Face Cream,2025-06-03,15,1500
+Twitter,TechTrends,3,103,Earbuds,2025-06-05,10,2500
+Instagram,StyleFest,4,104,Jacket,2025-06-07,25,5000
